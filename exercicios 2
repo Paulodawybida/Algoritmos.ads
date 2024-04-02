@@ -1,0 +1,14 @@
+public class InformacoesPessoa {
+    public static void main(String[] args) {
+        // Declaração e inicialização das variáveis
+        String nome = "João da Silva";
+        String cpf = "123.456.789-10";
+        String cep = "12345-678";
+        String cidade = "Exemploville";
+        String estado = "EX";
+
+        // Imprimir a frase com as variáveis
+        System.out.println("A pessoa com o nome " + nome + ", registrado no CPF " + cpf +
+                ", é residente do CEP " + cep + " na cidade de " + cidade + "-" + estado);
+    }
+}
