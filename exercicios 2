@@ -1,11 +1,11 @@
-public class InformacoesPessoa {
+public class InformacoesPessoais {
     public static void main(String[] args) {
         // Declaração e inicialização das variáveis
-        String nome = "João da Silva";
-        String cpf = "123.456.789-10";
-        String cep = "12345-678";
-        String cidade = "Exemploville";
-        String estado = "EX";
+        String nome = "Paulo Henrique";
+        String cpf = "084.453.029-81";
+        String cep = "83330-210";
+        String cidade = "Pinhais";
+        String estado = "PR";
 
         // Imprimir a frase com as variáveis
         System.out.println("A pessoa com o nome " + nome + ", registrado no CPF " + cpf +
